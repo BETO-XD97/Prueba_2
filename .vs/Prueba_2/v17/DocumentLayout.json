@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roberto\\source\\repos\\Prueba_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5C49F2B-4262-43A8-A30C-8B996F9DE155}|Prueba_2\\Prueba_2.csproj|c:\\users\\roberto\\source\\repos\\prueba_2\\prueba_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5C49F2B-4262-43A8-A30C-8B996F9DE155}|Prueba_2\\Prueba_2.csproj|solutionrelative:prueba_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto\\source\\repos\\Prueba_2\\Prueba_2\\Program.cs",
+              "RelativeDocumentMoniker": "Prueba_2\\Program.cs",
+              "ToolTip": "C:\\Users\\Roberto\\source\\repos\\Prueba_2\\Prueba_2\\Program.cs",
+              "RelativeToolTip": "Prueba_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T03:56:03.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
